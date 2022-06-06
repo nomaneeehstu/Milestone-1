@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+span {
+    color: orange;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.color-gray {
+    color: rgb(85, 82, 82);
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.flexible-container {
+    display: flex;
+    margin-top: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-top: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 800;
+}
+
+.bg-color {
+    background-color: antiquewhite;
+}
+
+.align-text {
+    text-align: center;
+    /* margin-left: 360px;
+    padding-right: 360px; */
+}
+
+.food-formate {
+    /* box-shadow: 10px 10px 40px gray;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 10px; */
+
+    box-shadow: 10px 10px 40px black;
+    width: 25%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 12px;
+    border-radius: 5%;
+}
+
+.food-formate img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: rgb(5, 66, 53);
+    color: rgb(242, 247, 248);
+
+}
+
+.p-formate {
+    padding-right: 60px;
+    margin-bottom: 50px;
+}
